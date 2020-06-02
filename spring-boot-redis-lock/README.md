@@ -1,3 +1,3 @@
 # redis分布式锁基于jedis和redisson
 
-主要jedis客户的版本有可能set方法没有nx参数
+注意jedis客户的版本有可能set方法没有nx参数
